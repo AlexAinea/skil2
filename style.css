@@ -1,0 +1,144 @@
+*{
+    font-family: arial;
+    padding: 0px;
+    margin: 0px;
+
+}
+body{
+    background-color: rgb(32, 32, 32);
+}
+nav{
+    background-color:  rgb(46, 46, 46);
+    display: flex;
+}
+.backtohome button{
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    border: rgb(7, 0, 0);
+    padding: 10px 30px;
+    font-weight: bold;
+    font-size: 1em;
+    position: relative;
+}
+.backtohome button:hover{
+    transition: 1.5s;
+    cursor: pointer;
+    letter-spacing: 0.25em;
+    background-color: #cf0000;
+}
+.logo img{
+    height: 80px;
+}
+.uppercontactsmenu{
+    display: grid;
+}
+.uppercontactsmenu button{
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    border: rgb(7, 0, 0);
+    padding: 10px 30px;
+    font-weight: bold;
+    font-size: 1em;
+    position: relative;
+}
+.uppercontactsmenu button:hover{
+    transition: 1.5s;
+    cursor: pointer;
+    letter-spacing: 0.25em;
+    background-color: #cf0000;
+}
+.contactsmenu{
+    background-color: rgb(46, 46, 46);
+    border: solid;
+    border-top: rgba(255, 235, 205, 0);
+    border-left:  rgba(255, 235, 205, 0);
+}
+.mainpage{
+    display: flex;
+}
+.facebook{
+    height: 30px;
+    border: solid black thin;
+}
+.facebook:hover{
+    border-radius: 10px;
+    transition: 1s;
+}
+.Insta{
+    height: 30px;
+    border: solid black thin;
+}
+.Insta:hover{
+    border-radius: 10px;
+    transition: 1s;
+}
+.twitter{
+    height: 30px;
+    border: solid black thin;
+}
+.twitter:hover{
+    border-radius: 10px;
+    transition: 1s;
+}
+.lowercontactsmenu{
+    display: grid;
+    margin-left: 50px;
+    margin-top: 500px;
+}
+.getintouch button{
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    border: rgb(7, 0, 0);
+    padding: 10px 30px;
+    font-weight: bold;
+    font-size: 1em;
+    position: relative;
+    margin-left: 745px;
+}
+.getintouch button:hover{
+    transition: 1.5s;
+    cursor: pointer;
+    letter-spacing: 0.25em;
+    background-color: #cf0000;
+}
+.maintext h1{
+    color: white;
+    font-style: italic;
+    border: #cf0000 double;
+    border-width: 5px;
+}
+.maintext strong{
+    font-size: 50px;
+    color: #cf0000;
+}
+
+.textarea{
+    display: grid;
+}
+.skills{
+    color: white;
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.skills ol{
+    list-style: lower-greek;
+    margin-top: 5px;
+    margin-left: 20px;
+    font-style: italic;
+}
+.backtohome button{
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    border: rgb(7, 0, 0);
+    padding: 10px 30px;
+    font-weight: bold;
+    font-size: 1em;
+    position: relative;
+}
+.backtohome button:hover{
+    transition: 1.5s;
+    cursor: pointer;
+    letter-spacing: 0.25em;
+    background-color: #cf0000;
+}
